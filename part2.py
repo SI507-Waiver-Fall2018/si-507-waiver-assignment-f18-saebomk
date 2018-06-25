@@ -1,3 +1,5 @@
+# Saebom Kwon, saebom, 38120092, SI507 Waiver
+
 import sys
 import sqlite3
 

@@ -1,4 +1,5 @@
-# Imports -- you may add others but do not need to
+# Saebom Kwon, saebom, 38120092, SI507 Waiver
+
 import plotly
 import plotly.plotly as py
 import plotly.graph_objs as go
